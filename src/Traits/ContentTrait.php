@@ -5,6 +5,7 @@ namespace Alexusmai\LaravelFileManager\Traits;
 use Alexusmai\LaravelFileManager\Services\ACLService\ACL;
 use Illuminate\Support\Arr;
 use Storage;
+use App\Models\User;
 
 trait ContentTrait
 {
