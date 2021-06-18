@@ -12,6 +12,7 @@ use Illuminate\Support\Str;
 use Illuminate\Support\Arr;
 use Storage;
 use Image;
+use App\Models\Content;
 
 class FileManager
 {
